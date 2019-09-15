@@ -6,3 +6,4 @@ test3
 >>>>>>> bda4ab97eaed232ad138851b65dbfc486764ab94
 test4
 test5
+test7
