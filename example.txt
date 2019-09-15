@@ -6,4 +6,8 @@ test3
 >>>>>>> bda4ab97eaed232ad138851b65dbfc486764ab94
 test4
 test5
+<<<<<<< HEAD
 test7
+=======
+test6
+>>>>>>> 5cabdd831cf158ba3c14b5cd02b4aa620dfdd76e
